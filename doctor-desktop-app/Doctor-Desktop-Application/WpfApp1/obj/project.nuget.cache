@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vDjs0gER+kBBXesYEeSm5BDcWJ+fohg8AYl05mZZXC8mgWhyibo/3UOf4h6kgFLEC+urBeY3W9DOZAjqBRLsSg==",
+  "dgSpecHash": "Et2tMjucqpYeROgPMf7Ppl5OhvNWderPWjxqICtWqMotMglJu+OXZ9KseM+EQ4Z5oZLUxgkcrJ5woXdKs/SQsQ==",
   "success": true,
-  "projectFilePath": "D:\\Computer Programming\\Programs\\HPE Hackathon\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\DoctorAppointments.csproj",
+  "projectFilePath": "C:\\Users\\sneha\\OneDrive\\Documents\\GitHub\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\DoctorAppointments.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
