@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sneha\\.nuget\\packages\\": {},
+    "C:\\Users\\shara\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sneha\\OneDrive\\Documents\\GitHub\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\DoctorAppointments.csproj",
+      "projectUniqueName": "D:\\Computer Programming\\Programs\\HPE Hackathon\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\DoctorAppointments.csproj",
       "projectName": "DoctorAppointments",
-      "projectPath": "C:\\Users\\sneha\\OneDrive\\Documents\\GitHub\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\DoctorAppointments.csproj",
-      "packagesPath": "C:\\Users\\sneha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sneha\\OneDrive\\Documents\\GitHub\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\obj\\",
+      "projectPath": "D:\\Computer Programming\\Programs\\HPE Hackathon\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\DoctorAppointments.csproj",
+      "packagesPath": "C:\\Users\\shara\\.nuget\\packages\\",
+      "outputPath": "D:\\Computer Programming\\Programs\\HPE Hackathon\\hospital-appointment-hpe-hack\\doctor-desktop-app\\Doctor-Desktop-Application\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sneha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shara\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
