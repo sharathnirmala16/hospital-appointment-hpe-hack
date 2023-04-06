@@ -20,9 +20,15 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
+        public string baseURL;
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        public void InitializeForm() 
+        { 
+            baseURL = "http://192.168.137.34:8080";
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
@@ -36,6 +42,11 @@ namespace WpfApp1
         }
 
         private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
 
         }
