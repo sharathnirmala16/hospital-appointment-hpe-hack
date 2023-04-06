@@ -167,7 +167,7 @@
                              Margin="0,5,0,0"
                              Padding="20,0,0,0">
                         <TextBox.Background>
-                            <ImageBrush ImageSource="/Images/user-icon.png"
+                            <ImageBrush ImageSource="/images/user-icon.png"
                                         Stretch="None"
                                         AlignmentX="Left"/>
                         </TextBox.Background>
@@ -195,7 +195,7 @@
                              Padding="20,0,0,0">
 
                         <PasswordBox.Background>
-                            <ImageBrush ImageSource="/Images/key-icon.png"
+                            <ImageBrush ImageSource="/images/key-icon.png"
                                         Stretch="None"
                                         AlignmentX="Left"/>
                         </PasswordBox.Background>
